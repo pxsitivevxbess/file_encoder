@@ -1,5 +1,5 @@
 /**
- * Created by aarnavjindal on 30/03/20.
+ * Created by Shivank
  */
 
 export { BinaryHeap }
